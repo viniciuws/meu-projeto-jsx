@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot tests se o componente renderiza de acordo co ma snapshot 1`] = `
+<h1
+  style={
+    Object {
+      "color": undefined,
+      "textAlign": "center",
+      "width": "100%",
+    }
+  }
+>
+  Meu título
+</h1>
+`;
+
+exports[`Snapshot tests se o componente renderiza de acordo com a snapshot 1`] = `
+<h1
+  style={
+    Object {
+      "color": undefined,
+      "textAlign": "center",
+      "width": "100%",
+    }
+  }
+>
+  Meu título
+</h1>
+`;
